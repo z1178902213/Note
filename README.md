@@ -1,1 +1,1 @@
-[我是废物啊](www.baidu.com)
+[我是废物啊](http://www.baidu.com)
