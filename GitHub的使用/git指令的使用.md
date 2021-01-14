@@ -33,6 +33,12 @@
 8. 删除未add文件
 
    `git clean -xf`
+   
+9. 查看自己是否已经配置过SSH Key
+
+   `git config --global --list`
+
+10. 
 
 
 # 本地git与GitHub的关联方法
