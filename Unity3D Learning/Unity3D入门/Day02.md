@@ -62,6 +62,7 @@
 2. 节点的位置用position表示，节点的旋转角度用eulerAngles表示
    * 绝对旋转 eulerangles
    * 相对旋转 localeulerangles
+   * 也可以用rotate旋转
 3. 当调用位移方法transform.translate()时的第四个参数Space.self（默认）表示对象朝着自己的坐标方向前进。当要沿着世界坐标轴方向前进时，需要将第四个参数修改成Space.World。
 4. 移动到达边界可以通过判断transform的position和摄像机的摄像范围进行比较从而进行调头。
 
