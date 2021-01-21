@@ -47,11 +47,11 @@
 
 1. `git config --global user.name "GitHub用户名"`
 
-2. `git config --global user.email "GitHub注册邮箱"`
+2. `git config --global user.email GitHub注册邮箱`
 
 ### 生成ssh key
 
-1. 生成ssh key：`ssh-keygen -t -rsa -C "邮箱"`
+1. 生成ssh key：`ssh-keygen -t rsa -C "邮箱"`
 2. 复制ssh key：`clip <~/.ssh/id_esa.pub`  会自动复制ssh key
 
 ### 连接GitHub
